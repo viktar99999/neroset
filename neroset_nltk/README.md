@@ -27,7 +27,9 @@ pip3 install nltk
 pip3 install paramiko # dependency gensim
 pip3 install pandas
 pip3 install pyOpenSSL # dependency gensim
-pip3 install sklearn
+pip3 install sklearn # dipricated
+# https://github.com/scikit-learn/scikit-learn/issues/8215
+pip3 install scikit-learn
 pip3 install textblob
 pip3 install word2vec
 Check install python-libs:
